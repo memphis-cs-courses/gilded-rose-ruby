@@ -1,6 +1,8 @@
 Gilded Rose Kata in Ruby
 ========================
 
+Original repo: <https://github.com/amckinnell/Gilded-Rose-Ruby>
+
 The Gilded Rose Kata in Ruby following the style from the [Sandi Metz](https://twitter.com/sandimetz)
 presentation [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE).
 
